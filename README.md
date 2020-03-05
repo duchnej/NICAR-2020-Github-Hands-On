@@ -6,4 +6,4 @@ This is the second change.
 
 This is the new feature!
 
-This is a forcked readme
+This is a forked readme
